@@ -37,14 +37,10 @@ To Create a player movement using pawn, collectible, player health, and score.
 ## OUTPUT:
 
 ### Starting position of the player:
-![image](https://github.com/Aashima02/Pawn-Movement/assets/93427086/a07560f0-ad0e-4812-a6e8-80049c24d89f)
-
-### Destroying the coins:
-![image](https://github.com/Aashima02/Pawn-Movement/assets/93427086/a3dc2dc5-4aa5-4499-84d7-35246add6266)
+![image](https://github.com/gpavithra673/EX-NO-02-Player-movement-using-pawn/assets/93427264/43a7b8a2-fc55-4841-9268-02053cced1ec)
 
 ### After destroying all the coins, the score and health bars get updated:
-![image](https://github.com/Aashima02/Pawn-Movement/assets/93427086/e7b6f849-a07b-46f2-bec6-bee5b0cefc64)
-
+![image](https://github.com/gpavithra673/EX-NO-02-Player-movement-using-pawn/assets/93427264/e7b9697f-5d5b-4f3c-9b5e-d1d8dcd74aee)
 ## PROCEDURE:
 
 ### To redirect to levels:
